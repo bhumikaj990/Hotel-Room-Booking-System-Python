@@ -7,3 +7,4 @@ a beginner friendly hotel room booking system built using python with room booki
  -loops
  -conditional statements
  -user input
+ - problem solving
